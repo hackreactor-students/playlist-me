@@ -1,4 +1,4 @@
 playlist-me
 ===========
 
-Music recommendations from real people.
+Music recommendations from real people. A Meteor app.
